@@ -1,0 +1,11 @@
+<!ELEMENT menu>
+[
+<!ELEMENT andhra authentic (andhrameals,andhrabiriyani,rayalasema ragisangati,pulihora,chapatti mixveg)>
+<!ATTLIST userid CDATA #REQUIRED>
+<!ELEMENT userid (#PCDATA)>
+<!ELEMENT andhrameals (#PCDATA)>
+<!ELEMENT andhrabiriyani (#PCDATA)>
+<!ELEMENT rayalasema ragisangati(#PCDATA)>
+<!ELEMENT pulihora (#PCDATA)>
+<!ELEMENT chapatti mixveg (#PCDATA)>
+]

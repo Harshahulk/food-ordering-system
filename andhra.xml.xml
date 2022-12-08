@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Required meta tags</remark></note><note><remark>Bootstrap CSS</remark></note><inlinegraphic fileref="#images/logo.png" width="0.8071inch" depth="0.4138inch"/> </para>
+  <sect1 id="navbarNav">
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="index.html">Home (current)</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="hotelsPage.html">Menu</olink> ORDERS <anchor id="finalOrder"/>0 </para>
+      </listitem>
+    </orderedlist>
+    <orderedlist>
+      <listitem>
+        <para>
+          <olink targetdocent="login.html">Logout </olink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <sect1 id="success">
+    <para>Success! Your food will be delivered at <anchor id="myLocation"/>. Enjoy your meal </para>
+  </sect1>
+  <sect1>
+    <title/>
+    <sect2>
+      <title>Andhra food </title>
+      <sect1 id="lunch">
+        <para><note><remark>&lt;nav&gt;</remark></note><note><remark>&lt;ul&gt;</remark></note><note><remark>&lt;li&gt;&lt;a href="#breakfast"&gt;Breakfast&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;a href="#lunch"&gt;Lunch&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;a href="#pastries"&gt;Pasteries&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;li&gt;&lt;a href="#beverages"&gt;Beverages&lt;/a&gt;&lt;/li&gt;</remark></note><note><remark>&lt;/ul&gt;</remark></note><note><remark>&lt;/nav&gt;</remark></note><note><remark>&lt;div class="confuse"&gt;&lt;/div&gt;</remark></note><inlinegraphic fileref="#images/andhra.png" width="0.7862inch" depth="2.6043inch"/> </para>
+        <para>Andhra meals </para>
+        <para>Rs. 65.00</para>
+        <para>Order </para>
+        <para><inlinegraphic fileref="#images/andhra%20biriyani.png" width="0.7862inch" depth="2.6043inch"/> </para>
+        <para>Andhra Biriyani </para>
+        <para>Rs. 265.00</para>
+        <para>Order </para>
+        <para><inlinegraphic fileref="#images/ragisangati.png" width="0.7862inch" depth="2.6043inch"/> </para>
+        <para>rayalasema ragisangati </para>
+        <para>Rs. 115.00</para>
+        <para>Order </para>
+        <para><inlinegraphic fileref="#images/pulihora.png" width="0.7862inch" depth="2.6043inch"/> </para>
+        <para>Pulihora </para>
+        <para>Rs. 125.00</para>
+        <para>Order </para>
+        <para><inlinegraphic fileref="https://envirofit.org/wp-content/uploads/2017/08/Stewed-Ndengu-1.jpg" width="0.7862inch" depth="2.6043inch"/> </para>
+        <para>Chapatti and Mix Veg </para>
+        <para>Rs. 115.00</para>
+        <para>Order </para>
+      </sect1>
+      <sect1 id="exampleModalCenter">
+        <title><anchor id="exampleModalCenterTitle"/><note><remark>food 1</remark></note>Andhra Meals </title>
+        <para>× </para>
+        <para><inlinegraphic fileref="#images/andhra.png" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity"/>1</para>
+        <para><anchor id="price"/>65</para>
+        <para>Add to cart </para>
+      </sect1>
+      <sect3>
+        <title/>
+        <sect4>
+          <title><anchor id="exampleModalCenterTitle"/><note><remark>food 1</remark></note>Andhra Meals </title>
+          <note>
+            <remark>food 1</remark>
+          </note>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/andhra.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity"/>1</para>
+          <para><anchor id="price"/>65</para>
+          <para>Add to cart </para>
+          <sect1 id="chapatiBeans">
+            <title><anchor id="foodModalCenterTitle"/><note><remark>food 2</remark></note>Andhra Biriyani </title>
+            <para>× </para>
+            <para><inlinegraphic fileref="#images/andhra%20biriyani.png" width="0.7862inch" depth="1.5626inch"/> </para>
+            <para><anchor id="quantity2"/>1</para>
+            <para><anchor id="price2"/>65</para>
+            <para>Add to cart </para>
+          </sect1>
+        </sect4>
+      </sect3>
+      <sect3>
+        <title/>
+        <sect4>
+          <title><anchor id="foodModalCenterTitle"/><note><remark>food 2</remark></note>Andhra Biriyani </title>
+          <note>
+            <remark>food 2</remark>
+          </note>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/andhra%20biriyani.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity2"/>1</para>
+          <para><anchor id="price2"/>65</para>
+          <para>Add to cart </para>
+          <sect1 id="ugaliBeef">
+            <title><anchor id="foodModalCenterTitle1"/><note><remark>food3</remark></note>Rayalaseema ragisangati </title>
+            <para>× </para>
+            <para><inlinegraphic fileref="#images/ragisangati.png" width="0.7862inch" depth="1.5626inch"/> </para>
+            <para><anchor id="quantity3"/>1</para>
+            <para><anchor id="price3"/>115</para>
+            <para>Add to cart </para>
+          </sect1>
+        </sect4>
+      </sect3>
+      <sect3>
+        <title/>
+        <sect4>
+          <title><anchor id="foodModalCenterTitle1"/><note><remark>food3</remark></note>Rayalaseema ragisangati </title>
+          <note>
+            <remark>food3</remark>
+          </note>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/ragisangati.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity3"/>1</para>
+          <para><anchor id="price3"/>115</para>
+          <para>Add to cart </para>
+          <sect1 id="ugaliFish">
+            <title><anchor id="foodModalCenterTitle2"/><note><remark>food4</remark></note>pulihora </title>
+            <para>× </para>
+            <para><inlinegraphic fileref="#images/pulihora.png" width="0.7862inch" depth="1.5626inch"/> </para>
+            <para><anchor id="quantity4"/>1</para>
+            <para><anchor id="price4"/>125</para>
+            <para>Add to cart </para>
+          </sect1>
+        </sect4>
+      </sect3>
+      <sect3>
+        <title/>
+        <sect4>
+          <title><anchor id="foodModalCenterTitle2"/><note><remark>food4</remark></note>pulihora </title>
+          <note>
+            <remark>food4</remark>
+          </note>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/pulihora.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity4"/>1</para>
+          <para><anchor id="price4"/>125</para>
+          <para>Add to cart </para>
+          <sect1 id="chapoNdengu">
+            <title><anchor id="foodModalCenterTitle3"/><note><remark>food5</remark></note>chapatti-ndengu </title>
+            <para>× </para>
+            <para><inlinegraphic fileref="https://envirofit.org/wp-content/uploads/2017/08/Stewed-Ndengu-1.jpg" width="0.7862inch" depth="1.5626inch"/> </para>
+            <para><anchor id="quantity5"/>1</para>
+            <para><anchor id="price5"/>65</para>
+            <para>Add to cart </para>
+          </sect1>
+        </sect4>
+      </sect3>
+      <sect3>
+        <title/>
+        <sect4>
+          <title><anchor id="foodModalCenterTitle3"/><note><remark>food5</remark></note>chapatti-ndengu </title>
+          <note>
+            <remark>food5</remark>
+          </note>
+          <para>× </para>
+          <para><inlinegraphic fileref="https://envirofit.org/wp-content/uploads/2017/08/Stewed-Ndengu-1.jpg" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity5"/>1</para>
+          <para><anchor id="price5"/>65</para>
+          <para>Add to cart </para>
+          <sect1 id="myModal">
+            <title><note><remark>cart modal</remark></note><note><remark>Modal Header</remark></note>View cart</title>
+            <para>× </para>
+            <para><note><remark>Modal body</remark></note><inlinegraphic fileref="#images/cart.svg" width="0.7862inch" depth="0.3929inch"/> </para>
+            <title>You have no food in your shopping cart</title>
+            <para>
+              <anchor id="tablehead"/>
+            </para>
+            <informaltable frame="all">
+              <tgroup cols="4"><tbody><row><entry><para>Food</para></entry><entry><para>Quantity</para></entry><entry><para>Price</para></entry><entry><para>Total price</para></entry></row></tbody></tgroup>
+            </informaltable>
+            <para><note><remark>&lt;table&gt;</remark></note><note><remark>&lt;div&gt;</remark></note><note><remark>&lt;tr id="myFood" style="padding: 15px; margin-left: 100px;"&gt;&lt;/tr&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/table&gt;</remark></note><note><remark>Modal footer</remark></note>Checkout </para>
+          </sect1>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect3>
+      <title/>
+      <sect4>
+        <title><anchor id="exampleModalCenterTitle"/><note><remark>food 1</remark></note>Andhra Meals </title>
+        <note>
+          <remark>food 1</remark>
+        </note>
+        <para>× </para>
+        <para><inlinegraphic fileref="#images/andhra.png" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity"/>1</para>
+        <para><anchor id="price"/>65</para>
+        <para>Add to cart </para>
+        <sect1 id="chapatiBeans">
+          <title><anchor id="foodModalCenterTitle"/><note><remark>food 2</remark></note>Andhra Biriyani </title>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/andhra%20biriyani.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity2"/>1</para>
+          <para><anchor id="price2"/>65</para>
+          <para>Add to cart </para>
+        </sect1>
+      </sect4>
+    </sect3>
+    <sect3>
+      <title/>
+      <sect4>
+        <title><anchor id="foodModalCenterTitle"/><note><remark>food 2</remark></note>Andhra Biriyani </title>
+        <note>
+          <remark>food 2</remark>
+        </note>
+        <para>× </para>
+        <para><inlinegraphic fileref="#images/andhra%20biriyani.png" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity2"/>1</para>
+        <para><anchor id="price2"/>65</para>
+        <para>Add to cart </para>
+        <sect1 id="ugaliBeef">
+          <title><anchor id="foodModalCenterTitle1"/><note><remark>food3</remark></note>Rayalaseema ragisangati </title>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/ragisangati.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity3"/>1</para>
+          <para><anchor id="price3"/>115</para>
+          <para>Add to cart </para>
+        </sect1>
+      </sect4>
+    </sect3>
+    <sect3>
+      <title/>
+      <sect4>
+        <title><anchor id="foodModalCenterTitle1"/><note><remark>food3</remark></note>Rayalaseema ragisangati </title>
+        <note>
+          <remark>food3</remark>
+        </note>
+        <para>× </para>
+        <para><inlinegraphic fileref="#images/ragisangati.png" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity3"/>1</para>
+        <para><anchor id="price3"/>115</para>
+        <para>Add to cart </para>
+        <sect1 id="ugaliFish">
+          <title><anchor id="foodModalCenterTitle2"/><note><remark>food4</remark></note>pulihora </title>
+          <para>× </para>
+          <para><inlinegraphic fileref="#images/pulihora.png" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity4"/>1</para>
+          <para><anchor id="price4"/>125</para>
+          <para>Add to cart </para>
+        </sect1>
+      </sect4>
+    </sect3>
+    <sect3>
+      <title/>
+      <sect4>
+        <title><anchor id="foodModalCenterTitle2"/><note><remark>food4</remark></note>pulihora </title>
+        <note>
+          <remark>food4</remark>
+        </note>
+        <para>× </para>
+        <para><inlinegraphic fileref="#images/pulihora.png" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity4"/>1</para>
+        <para><anchor id="price4"/>125</para>
+        <para>Add to cart </para>
+        <sect1 id="chapoNdengu">
+          <title><anchor id="foodModalCenterTitle3"/><note><remark>food5</remark></note>chapatti-ndengu </title>
+          <para>× </para>
+          <para><inlinegraphic fileref="https://envirofit.org/wp-content/uploads/2017/08/Stewed-Ndengu-1.jpg" width="0.7862inch" depth="1.5626inch"/> </para>
+          <para><anchor id="quantity5"/>1</para>
+          <para><anchor id="price5"/>65</para>
+          <para>Add to cart </para>
+        </sect1>
+      </sect4>
+    </sect3>
+    <sect3>
+      <title/>
+      <sect4>
+        <title><anchor id="foodModalCenterTitle3"/><note><remark>food5</remark></note>chapatti-ndengu </title>
+        <note>
+          <remark>food5</remark>
+        </note>
+        <para>× </para>
+        <para><inlinegraphic fileref="https://envirofit.org/wp-content/uploads/2017/08/Stewed-Ndengu-1.jpg" width="0.7862inch" depth="1.5626inch"/> </para>
+        <para><anchor id="quantity5"/>1</para>
+        <para><anchor id="price5"/>65</para>
+        <para>Add to cart </para>
+        <sect1 id="myModal">
+          <title><note><remark>cart modal</remark></note><note><remark>Modal Header</remark></note>View cart</title>
+          <para>× </para>
+          <para><note><remark>Modal body</remark></note><inlinegraphic fileref="#images/cart.svg" width="0.7862inch" depth="0.3929inch"/> </para>
+          <title>You have no food in your shopping cart</title>
+          <para>
+            <anchor id="tablehead"/>
+          </para>
+          <informaltable frame="all">
+            <tgroup cols="4"><tbody><row><entry><para>Food</para></entry><entry><para>Quantity</para></entry><entry><para>Price</para></entry><entry><para>Total price</para></entry></row></tbody></tgroup>
+          </informaltable>
+          <para><note><remark>&lt;table&gt;</remark></note><note><remark>&lt;div&gt;</remark></note><note><remark>&lt;tr id="myFood" style="padding: 15px; margin-left: 100px;"&gt;&lt;/tr&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/table&gt;</remark></note><note><remark>Modal footer</remark></note>Checkout </para>
+        </sect1>
+      </sect4>
+    </sect3>
+  </sect1>
+  <sect1>
+    <title><note><remark>cart modal</remark></note><note><remark>Modal Header</remark></note>View cart</title>
+    <note>
+      <remark>cart modal</remark>
+    </note>
+    <note>
+      <remark>Modal Header</remark>
+    </note>
+    <para>× </para>
+    <para><note><remark>Modal body</remark></note><inlinegraphic fileref="#images/cart.svg" width="0.7862inch" depth="0.3929inch"/> </para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>You have no food in your shopping cart</title>
+        <para>
+          <anchor id="tablehead"/>
+        </para>
+        <informaltable frame="all">
+          <tgroup cols="4"><tbody><row><entry><para>Food</para></entry><entry><para>Quantity</para></entry><entry><para>Price</para></entry><entry><para>Total price</para></entry></row></tbody></tgroup>
+        </informaltable>
+        <para><note><remark>&lt;table&gt;</remark></note><note><remark>&lt;div&gt;</remark></note><note><remark>&lt;tr id="myFood" style="padding: 15px; margin-left: 100px;"&gt;&lt;/tr&gt;</remark></note><note><remark>&lt;/div&gt;</remark></note><note><remark>&lt;/table&gt;</remark></note><note><remark>Modal footer</remark></note>Checkout </para>
+        <para>FoodOrdering System</para>
+        <para><inlinegraphic fileref="#images/apple-store.svg" width="0.7862inch" depth="0.3929inch"/> <inlinegraphic fileref="#images/playstore.png" width="0.7862inch" depth="0.4165inch"/> </para>
+        <orderedlist>
+          <listitem>
+            <para><link linkend="">About Food Ordering System</link> </para>
+          </listitem>
+          <listitem>
+            <para><link linkend="">Read our blog</link> </para>
+          </listitem>
+          <listitem>
+            <para><link linkend="">Order now</link> </para>
+          </listitem>
+          <listitem>
+            <para><link linkend="">sign up</link> </para>
+          </listitem>
+        </orderedlist>
+        <orderedlist>
+          <listitem>
+            <para>Get Help </para>
+          </listitem>
+          <listitem>
+            <para>Read FAQS </para>
+          </listitem>
+          <listitem>
+            <para/>
+          </listitem>
+        </orderedlist>
+        <sect1 id="horizontal">
+          <para/>
+        </sect1>
+        <sect1 id="copyright">
+          <para>Copyrights © Food Ordering System All rights reserved</para>
+        </sect1>
+        <para>
+          <note>
+            <remark>Optional JavaScript</remark>
+          </note>
+          <note>
+            <remark>jQuery first, then Popper.js, then Bootstrap JS</remark>
+          </note>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>
